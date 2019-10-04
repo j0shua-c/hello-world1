@@ -1,2 +1,3 @@
 # hello-world1
-this is a hello world git hub thing
+
+hi this is josh and im here to do the hello world thing
